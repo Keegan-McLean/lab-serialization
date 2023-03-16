@@ -1,0 +1,15 @@
+D:\projects\serialazation\serialazation\bin\Debug\net6.0\serialazation.exe
+D:\projects\serialazation\serialazation\bin\Debug\net6.0\serialazation.deps.json
+D:\projects\serialazation\serialazation\bin\Debug\net6.0\serialazation.runtimeconfig.json
+D:\projects\serialazation\serialazation\bin\Debug\net6.0\serialazation.dll
+D:\projects\serialazation\serialazation\bin\Debug\net6.0\serialazation.pdb
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.csproj.AssemblyReference.cache
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.AssemblyInfoInputs.cache
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.AssemblyInfo.cs
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.csproj.CoreCompileInputs.cache
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.dll
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\refint\serialazation.dll
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.pdb
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\serialazation.genruntimeconfig.cache
+D:\projects\serialazation\serialazation\obj\Debug\net6.0\ref\serialazation.dll
